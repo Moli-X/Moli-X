@@ -2,8 +2,7 @@
 
 
 
-[![莫离's GitHub stats](https://github-readme-stats.vercel.app/api?username=WSL33099&show_icons=true&theme=merko)](https://github.com/WSL33099/QuantumultX)
-
+### [![莫离's GitHub stats](https://github-readme-stats.vercel.app/api?username=WSL33099&show_icons=true&theme=merko)](https://github.com/WSL33099/QuantumultX)
 <a href="https://t.me/GodMolibot"><img src='https://img.shields.io/badge/By-莫--离-green'/></a>
 <a href="https://github.com/WSL33099/QuantumultX/tree/main/Conf"><img src='https://img.shields.io/badge/Rewrite-v1.0-orange'/></a>
 [![Stars](https://img.shields.io/github/stars/WSL33099/QuantumultX)](https://github.com/WSL33099/QuantumultX/stargazers)
@@ -12,7 +11,7 @@
 [![Telegram](https://img.shields.io/badge/Telegram-Channel-33A8E3)](https://t.me/Skill_XX)
 [![Issues](https://img.shields.io/github/issues/WSL33099/QuantumultX)](https://github.com/WSL33099/QuantumultX/issues)
 [![](https://img.shields.io/github/followers/WSL33099?label=follow&style=social)](https://github.com/WSL33099)
-
+![](https://visitor-badge.glitch.me/badge?page_id=WSL33099.WSL33099)
 
 <!--
 **WSL33099/WSL33099** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
