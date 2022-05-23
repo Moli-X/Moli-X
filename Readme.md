@@ -4,7 +4,8 @@
 
 ### [![莫离's GitHub stats](https://github-readme-stats.vercel.app/api?username=WSL33099&show_icons=true&theme=merko)](https://github.com/WSL33099/QuantumultX)
 <a href="https://t.me/GodMolibot"><img src='https://img.shields.io/badge/By-莫--离-green'/></a>
-<a href="https://github.com/WSL33099/QuantumultX/tree/main/Conf"><img src='https://img.shields.io/badge/Rewrite-v1.0-orange'/></a>
+<a href="https://github.com/WSL33099/QuantumultX/tree/main/Conf"><img src='https://img.shields.io/badge/Rewrite-v5.0-orange'/></a>
+<a href="https://github.com/WSL33099/QuantumultX/blob/main/Script/Script.conf"><img src='https://img.shields.io/badge/Script-v2.0-red'/></a>
 [![Stars](https://img.shields.io/github/stars/WSL33099/QuantumultX)](https://github.com/WSL33099/QuantumultX/stargazers)
 [![Fork](https://img.shields.io/github/forks/WSL33099/QuantumultX)](https://github.com/WSL33099/QuantumultX/network/members)
 [![Commit](https://img.shields.io/github/commit-activity/m/WSL33099/QuantumultX?label=Commits)](https://github.com/WSL33099/QuantumultX/commits/master)
