@@ -16,4 +16,4 @@
 [![](https://img.shields.io/github/followers/WSL33099?label=follow&style=social)](https://github.com/WSL33099?tab=followers)
 ![](https://visitor-badge.glitch.me/badge?page_id=WSL33099.WSL33099)
 
-[![Github contribution grid snake animation](https://raw.githubusercontent.com/Nan-nx/Nan-nx/output/github-contribution-grid-snake.svg)](https://github.com/WSL33099/莫离)
+[![Github contribution grid snake animation](https://raw.githubusercontent.com/Nan-nx/Nan-nx/output/github-contribution-grid-snake.svg)](https://github.com/WSL33099/QuantumultX)
