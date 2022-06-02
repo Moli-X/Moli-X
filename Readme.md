@@ -9,7 +9,7 @@ TG Channel：https://t.me/QuantX
 <a href="https://github.com/WSL33099/QuantumultX/blob/main/Script/Script.conf"><img src='https://img.shields.io/badge/Script-v2.0-red'/></a>
 [![Stars](https://img.shields.io/github/stars/WSL33099/QuantumultX)](https://github.com/WSL33099/QuantumultX/stargazers)
 [![Fork](https://img.shields.io/github/forks/WSL33099/QuantumultX)](https://github.com/WSL33099/QuantumultX/network/members)
-[![Commit](https://img.shields.io/github/commit-activity/m/WSL33099/QuantumultX?label=Commits)](https://github.com/WSL33099/QuantumultX/commits/master)
+[![Commit](https://img.shields.io/github/commit-activity/m/WSL33099/QuantumultX?label=Commits)](https://github.com/WSL33099/QuantumultX/commits/main)
 [![Telegram](https://img.shields.io/badge/Telegram-Channel-33A8E3)](https://t.me/Skill_XX)
 [![Issues](https://img.shields.io/github/issues/WSL33099/QuantumultX)](https://github.com/WSL33099/QuantumultX/issues)
 [![](https://img.shields.io/github/followers/WSL33099?label=follow&style=social)](https://github.com/WSL33099?tab=followers)
