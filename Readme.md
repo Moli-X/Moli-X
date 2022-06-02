@@ -1,4 +1,4 @@
-<a href="https://t.me/GodMoliibot"><img src="https://raw.githubusercontent.com/Nan-nx/Nan-nx/main/hello.gif" width="5%" height="5%"></a>
+<a href="https://t.me/GodMoliibot"><img src="https://raw.githubusercontent.com/Nan-nx/Nan-nx/main/hello.gif" width="10%" height="10%"></a>
 
 TG Channel：https://t.me/QuantX
 
