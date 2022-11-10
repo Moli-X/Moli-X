@@ -7,8 +7,8 @@ TG Channel：https://t.me/QuantX
 <a href="https://t.me/GodMoliibot"><img src='https://img.shields.io/badge/By-莫--离-green'/></a>
 [![Telegram](https://img.shields.io/badge/Telegram-Channel-33A8E3)](https://t.me/Skill_XX)
 [![](https://visitor-badge.glitch.me/badge?page_id=Moli-X.Moli-X)](https://github.com/GodMoli/QuanX/blob/main/File/Auto.conf)
-<a href="https://github.com/Moli-X/Resources/tree/main/Script"><img src='https://img.shields.io/badge/Rewrite-v5.0-orange'/></a>
-<a href="https://github.com/Moli-X/Resources/blob/main/Forown/Script.conf"><img src='https://img.shields.io/badge/Script-v2.0-red'/></a>
+<a href="https://github.com/Moli-X/Resources/tree/main/Rewrite"><img src='https://img.shields.io/badge/Rewrite-v5.0-orange'/></a>
+<a href="https://github.com/Moli-X/Resources/blob/main/Script"><img src='https://img.shields.io/badge/Script-v2.0-red'/></a>
 [![](https://img.shields.io/github/followers/Moli-X?label=follow&style=social)](https://github.com/Moli-X?tab=followers)
 [![Stars](https://img.shields.io/github/stars/Moli-X/Resources)](https://github.com/Moli-X/Resources/stargazers)
 [![Fork](https://img.shields.io/github/forks/Moli-X/Resources)](https://github.com/Moli-X/Resources/network/members)
