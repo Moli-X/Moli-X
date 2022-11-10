@@ -1,18 +1,18 @@
-<a href="https://t.me/GodMoliibot"><img src="https://raw.githubusercontent.com/WSL33099/QuantumultX/main/Icon/Other/Hello.gif" width="20%" height="20%"></a>
+<a href="https://t.me/GodMoliibot"><img src="https://raw.githubusercontent.com/Moli-X/Resources/main/Icon/Other/Hello.gif" width="20%" height="20%"></a>
 
 TG Channel：https://t.me/QuantX
 
-[![莫离's GitHub stats](https://github-readme-stats.vercel.app/api?username=WSL33099&show_icons=true&theme=merko)](https://github.com/WSL33099/QuantumultX)
+[![莫离's GitHub stats](https://github-readme-stats.vercel.app/api?username=Moli-X&show_icons=true&theme=merko)](https://github.com/Moli-X/Resources)
 
 <a href="https://t.me/GodMoliibot"><img src='https://img.shields.io/badge/By-莫--离-green'/></a>
 [![Telegram](https://img.shields.io/badge/Telegram-Channel-33A8E3)](https://t.me/Skill_XX)
-[![](https://visitor-badge.glitch.me/badge?page_id=WSL33099.WSL33099)](https://github.com/GodMoli/QuanX/blob/main/File/Auto.conf)
-<a href="https://github.com/WSL33099/QuantumultX/tree/main/Script"><img src='https://img.shields.io/badge/Rewrite-v5.0-orange'/></a>
-<a href="https://github.com/WSL33099/QuantumultX/blob/main/Forown/Script.conf"><img src='https://img.shields.io/badge/Script-v2.0-red'/></a>
-[![](https://img.shields.io/github/followers/WSL33099?label=follow&style=social)](https://github.com/WSL33099?tab=followers)
-[![Stars](https://img.shields.io/github/stars/WSL33099/QuantumultX)](https://github.com/WSL33099/QuantumultX/stargazers)
-[![Fork](https://img.shields.io/github/forks/WSL33099/QuantumultX)](https://github.com/WSL33099/QuantumultX/network/members)
-[![Commit](https://img.shields.io/github/commit-activity/m/WSL33099/QuantumultX?label=Commits)](https://github.com/WSL33099/QuantumultX/commits/main)
+[![](https://visitor-badge.glitch.me/badge?page_id=Moli-X.Moli-X)](https://github.com/GodMoli/QuanX/blob/main/File/Auto.conf)
+<a href="https://github.com/Moli-X/Resources/tree/main/Script"><img src='https://img.shields.io/badge/Rewrite-v5.0-orange'/></a>
+<a href="https://github.com/Moli-X/Resources/blob/main/Forown/Script.conf"><img src='https://img.shields.io/badge/Script-v2.0-red'/></a>
+[![](https://img.shields.io/github/followers/Moli-X?label=follow&style=social)](https://github.com/Moli-X?tab=followers)
+[![Stars](https://img.shields.io/github/stars/Moli-X/Resources)](https://github.com/Moli-X/Resources/stargazers)
+[![Fork](https://img.shields.io/github/forks/Moli-X/Resources)](https://github.com/Moli-X/Resources/network/members)
+[![Commit](https://img.shields.io/github/commit-activity/m/Moli-X/Resources?label=Commits)](https://github.com/Moli-X/Resources/commits/main)
 
 #### 特别感谢：
 
