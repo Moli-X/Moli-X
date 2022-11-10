@@ -7,7 +7,7 @@ TG Channel：https://t.me/QuantX
 <a href="https://t.me/GodMoliibot"><img src='https://img.shields.io/badge/By-莫--离-green'/></a>
 [![Telegram](https://img.shields.io/badge/Telegram-Channel-33A8E3)](https://t.me/Skill_XX)
 <a href="https://github.com/GodMoli/QuanX/blob/main/File/Auto.conf"><img src='https://img.shields.io/badge/配置-v5.0-green'/></a>
-[![](https://visitor-badge.glitch.me/badge?page_id=Moli-X.Moli-X)](https://github.com/Moli-X)
+[![](https://visitor-badge.glitch.me/badge?page_id=Moli-X.Moli-X)](https://github.com/GodMoli/QuanX/blob/main/File/Auto.conf)
 <a href="https://github.com/Moli-X/Resources/tree/main/Filter"><img src='https://img.shields.io/badge/分流-v5.0-green'/></a>
 <a href="https://github.com/Moli-X/Resources/tree/main/Rewrite"><img src='https://img.shields.io/badge/重写-v5.0-orange'/></a>
 <a href="https://github.com/Moli-X/Resources/blob/main/Script"><img src='https://img.shields.io/badge/脚本-v2.0-red'/></a>
