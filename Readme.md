@@ -13,7 +13,9 @@ TG Channel：https://t.me/QuantX
 [![Stars](https://img.shields.io/github/stars/Moli-X/Resources)](https://github.com/Moli-X/Resources/stargazers)
 [![Fork](https://img.shields.io/github/forks/Moli-X/Resources)](https://github.com/Moli-X/Resources/network/members)
 [![Commit](https://img.shields.io/github/commit-activity/m/Moli-X/Resources?label=Commits)](https://github.com/Moli-X/Resources/commits/main)
-**Moli-X/Moli-X** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](https://komarev.com/ghpvc/?username=Moli-X&color=green)
+
+<img src="https://github-readme-stats-mrdulin.vercel.app/api?username=Moli-X&show_icons=true&hide_border=true&include_all_commits=true&hide_title=true" align="right">
 
 #### 特别感谢：
 
