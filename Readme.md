@@ -2,7 +2,7 @@
 
 TG Channel：https://t.me/QuantX
 
-[![莫离's GitHub stats](https://github-readme-stats.vercel.app/api?username=Moli-X&show_icons=true&theme=merko)](https://github.com/Moli-X/Resources)
+[![莫离's GitHub stats](https://github-readme-stats.vercel.app/api?username=Moli-X&show_icons=true&theme=merko)](https://github.com/GodMoli/QuanX/edit/main/File/Auto.conf)
 
 <a href="https://t.me/GodMoliibot"><img src='https://img.shields.io/badge/By-莫--离-green'/></a>
 [![Telegram](https://img.shields.io/badge/Telegram-Channel-33A8E3)](https://t.me/Skill_XX)
