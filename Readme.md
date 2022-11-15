@@ -14,7 +14,6 @@ TG Channel：https://t.me/QuantX
 [![Stars](https://img.shields.io/github/stars/Moli-X/Resources)](https://github.com/Moli-X/Resources/stargazers)
 [![Fork](https://img.shields.io/github/forks/Moli-X/Resources)](https://github.com/Moli-X/Resources/network/members)
 [![Commit](https://img.shields.io/github/commit-activity/m/Moli-X/Resources?label=Commits)](https://github.com/Moli-X/Resources/commits/main)
-![](https://komarev.com/ghpvc/?username=Moli-X&color=green)
 [![Confige](https://komarev.com/ghpvc/?username=Moli-X&color=green)](https://raw.githubusercontent.com/GodMoli/QuanX/main/File/Auto.conf)
 #### 特别感谢：
 
