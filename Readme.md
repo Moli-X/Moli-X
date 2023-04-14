@@ -123,31 +123,31 @@ TG Channel：https://t.me/QuantX
 		<td > 7 </td> <td > 百度网盘去广告 </td> <td ><a href="https://raw.githubusercontent.com/zqzess/rule_for_quantumultX/master/QuantumultX/rewrite/MyRewrite.conf"><em>BdPanAdBlock.conf</em></a></td><td>zqzess</td>  
     </tr>
 	<tr>
-		<td > 16 </td> <td > <strong><em>高德地图去广告</em></strong> </td> <td ><a href="https://github.com/RuCu6/QuanX/raw/main/Rewrites/Cube/amap.snippet"><em>amap.snippet</em></a></td><td>RuCu6</td>  
+		<td > 8 </td> <td > <strong><em>高德地图去广告</em></strong> </td> <td ><a href="https://github.com/RuCu6/QuanX/raw/main/Rewrites/Cube/amap.snippet"><em>amap.snippet</em></a></td><td>RuCu6</td>  
     </tr>
 	<tr>
-		<td > 8 </td> <td > <strong><em>喜马拉雅去广告</strong></em> </td> <td ><a href="https://github.com/ddgksf2013/Rewrite/raw/master/AdBlock/Ximalaya.conf"><em>XmlyAdBlock.conf</em></a></td><td>ddgksf2013</td>  
+		<td > 9 </td> <td > <strong><em>喜马拉雅去广告</strong></em> </td> <td ><a href="https://github.com/ddgksf2013/Rewrite/raw/master/AdBlock/Ximalaya.conf"><em>XmlyAdBlock.conf</em></a></td><td>ddgksf2013</td>  
     </tr>
 	<tr>
-		<td > 9 </td> <td > 小红书去广告</td> <td ><a href="https://github.com/ddgksf2013/Rewrite/raw/master/AdBlock/XiaoHongShu.conf"><em>XiaoHongShu.conf</em></a></td><td>ddgksf2013</td>  
+		<td > 10 </td> <td > 小红书去广告</td> <td ><a href="https://github.com/ddgksf2013/Rewrite/raw/master/AdBlock/XiaoHongShu.conf"><em>XiaoHongShu.conf</em></a></td><td>ddgksf2013</td>  
     </tr>
 	<tr>
-		<td > 10 </td> <td > Keep超级净化</td> <td ><a href="https://github.com/ddgksf2013/Rewrite/raw/master/AdBlock/KeepStyle.conf"><em>keepStyle.conf</em></a></td><td>ddgksf2013</td>  
+		<td > 11 </td> <td > Keep超级净化</td> <td ><a href="https://github.com/ddgksf2013/Rewrite/raw/master/AdBlock/KeepStyle.conf"><em>keepStyle.conf</em></a></td><td>ddgksf2013</td>  
     </tr>
 	<tr>
-		<td > 11 </td> <td > <strong>Pixiv去广告 </strong></td> <td ><a href="https://github.com/ddgksf2013/Scripts/raw/master/pixivAds.js"><em>PixivAds.js</em></a></td><td>ddgksf2013</td>  
+		<td > 12 </td> <td > <strong>Pixiv去广告 </strong></td> <td ><a href="https://github.com/ddgksf2013/Scripts/raw/master/pixivAds.js"><em>PixivAds.js</em></a></td><td>ddgksf2013</td>  
     </tr>
 	<tr>
-		<td > 12 </td> <td > 酷安去广告</td> <td ><a href="https://github.com/ddgksf2013/Scripts/raw/master/coolapk.js"><em>coolapk.js</em></a></td><td>ddgksf2013</td>  
+		<td > 13 </td> <td > 酷安去广告</td> <td ><a href="https://github.com/ddgksf2013/Scripts/raw/master/coolapk.js"><em>coolapk.js</em></a></td><td>ddgksf2013</td>  
     </tr>
 	<tr>
-		<td > 13 </td> <td > 12306去广告</td> <td ><a href="https://github.com/ddgksf2013/Scripts/raw/master/12306.js"><em>12306.js</em></a></td><td>ddgksf2013</td>  
+		<td > 14 </td> <td > 12306去广告</td> <td ><a href="https://github.com/ddgksf2013/Scripts/raw/master/12306.js"><em>12306.js</em></a></td><td>ddgksf2013</td>  
     </tr>
 	<tr>
-		<td > 14 </td> <td > 多多视频去广告 </td> <td ><a href="https://raw.githubusercontent.com/ddgksf2013/Scripts/master/rrtv_json.js"><em>DuoduoVideoAds.js</em></a></td><td>ddgksf2013</td>  
+		<td > 15 </td> <td > 多多视频去广告 </td> <td ><a href="https://raw.githubusercontent.com/ddgksf2013/Scripts/master/rrtv_json.js"><em>DuoduoVideoAds.js</em></a></td><td>ddgksf2013</td>  
     </tr>
 	<tr>
-		<td > 15 </td> <td > <strong>微博(国际版)去广告 </strong></td> <td ><a href="https://github.com/ddgksf2013/Rewrite/raw/master/AdBlock/Weibo.conf"><em>Weibo.conf</em></a></td><td>ddgksf2013</td>  
+		<td > 16 </td> <td > <strong>微博(国际版)去广告 </strong></td> <td ><a href="https://github.com/ddgksf2013/Rewrite/raw/master/AdBlock/Weibo.conf"><em>Weibo.conf</em></a></td><td>ddgksf2013</td>  
     </tr>
 	<tr>
 		<td > 17 </td> <td > 网易云去广告 </td> <td ><a href="https://github.com/ddgksf2013/Rewrite/raw/master/AdBlock/Netease.conf"><em>Netease.conf</em></a></td><td>ddgksf2013</td>  
