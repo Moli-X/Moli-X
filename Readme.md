@@ -83,7 +83,7 @@ TG Channel：https://t.me/QuantX
 		<td > 19 </td> <td > 扫描全能王VIP </td> <td ><a href="https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/smqnw.js"><em>smqnw.js</em></a></td><td>89996462</td>
     </tr>
 	<tr>
-		<td > 20 </td> <td > 白描-OCR-VIP </td> <td ><a href=" https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/baimiao.js"><em>baimiao.js</em></a></td><td>89996462</td>
+		<td > 20 </td> <td > 白描-OCR-VIP </td> <td ><a href="https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/baimiao.js"><em>baimiao.js</em></a></td><td>89996462</td>
     </tr>
 	<tr>
 		<td > 21 </td> <td > 七猫小说VIP </td> <td ><a href="https://raw.githubusercontent.com/I-am-R-E/QuantumultX/main/JavaScript/QiMaoXiaoShuo.js"><em>QiMaoXiaoShuo.js</em></a></td><td>I-am-R-E</td>
