@@ -98,7 +98,7 @@ TG Channel：https://t.me/QuantX
 		<td colspan="5">  </td>
     </tr>
     <tr>
-		<td rowspan="24"><strong>广告屏蔽</strong></td>
+		<td rowspan="25"><strong>广告屏蔽</strong></td>
 		<td > 1 </td> <td > <strong><em>莫离去广告</em></strong> </td> <td ><a href="https://github.com/Moli-X/Resources/raw/main/Rewrite/ADBlock.conf"><em>ADBlock.conf</em></a></td><td>Moli-X</td>
     </tr>
     <tr>
@@ -108,10 +108,7 @@ TG Channel：https://t.me/QuantX
 		<td > 3 </td> <td > <strong><em>奇心去广告</em> </strong></td> <td ><a href="https://raw.githubusercontent.com/zwf234/rules/master/QuantumultX/tailadv.conf"><em>tailadv.conf</em></a></td><td>zwf234</td>  
     </tr>
     <tr>
-		<td > 2 </td> <td > 微信小程序 </td> <td ><a href="https://github.com/ddgksf2013/Rewrite/raw/master/AdBlock/Applet.conf"><em>Applet.conf</em></a></td><td>ddgksf2013</td>
-    </tr>
-    <tr>
-		<td > 3 </td> <td > 油管去广告<br><strong><em>画中画</strong></em> </td> <td ><a href="https://github.com/Moli-X/Resources/raw/main/Rewrite/YouTube.conf"><em>YouTube.conf</em></a></td><td>divineEngine<br>Maasea</td>  
+		<td > 4 </td> <td > 油管去广告<br><strong><em>画中画</strong></em> </td> <td ><a href="https://github.com/Moli-X/Resources/raw/main/Rewrite/YouTube.conf"><em>YouTube.conf</em></a></td><td>divineEngine<br>Maasea</td>  
     </tr>
 	<tr>
 		<td > 5 </td> <td > 知乎去广告 </td> <td ><a href="https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/zheye/zheye.snippet"><em>Zhihu_Plus.conf</em></a></td><td>blackmatrix7</td>  
@@ -172,6 +169,9 @@ TG Channel：https://t.me/QuantX
     </tr>
 	<tr>
 		<td > 24 </td> <td > Pornhub去广告 </td> <td ><a href="https://raw.githubusercontent.com/ddgksf2013/Scripts/master/pornhub.js"><em>pornhub.js</em></a></td><td>ddgksf2013</td>
+    </tr>
+    <tr>
+		<td > 25 </td> <td > 微信小程序 </td> <td ><a href="https://github.com/ddgksf2013/Rewrite/raw/master/AdBlock/Applet.conf"><em>Applet.conf</em></a></td><td>ddgksf2013</td>
     </tr>
 	<tr>
 		<td colspan="5">  </td>
