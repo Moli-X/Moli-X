@@ -177,7 +177,7 @@ TG Channel：https://t.me/QuantX
 		<td colspan="5">  </td>
     </tr>
 	<tr>
-		<td rowspan="13"><strong>应用增强</strong></td>
+		<td rowspan="14"><strong>应用增强</strong></td>
 		<td > 1 </td> <td > <strong><em>B站自动换区</em></strong> </td> <td ><a href="https://github.com/Moli-X/Resources/blob/main/Rewrite/Bilibili/AutoBilibili.conf"><em>AutoBilibili.conf</em></a></td><td>Nobyda</td>
     </tr>
 	<tr>
@@ -215,6 +215,9 @@ TG Channel：https://t.me/QuantX
     </tr>
 	<tr>
 		<td > 13 </td> <td > <strong>Fileball云盘挂载[暂不适配QX]</strong> </td> <td ><a href="https://raw.githubusercontent.com/githubdulong/Script/master/Surge/Fileball.sgmodule"><em>Fileball.sgmodule</em></a></td><td>githubdulong</td>
+    </tr>
+	<tr>
+		<td > 14 </td> <td > <strong>Spotify歌词翻译 </strong></td> <td ><a href="https://raw.githubusercontent.com/app2smile/rules/master/js/spotify-lyric.js"><em>spotify-lyric.js</em></a></td><td>app2smile</td>
     </tr>
 	<tr>
 		<td colspan="5">  </td>
