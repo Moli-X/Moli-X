@@ -24,12 +24,12 @@ TG Channel：https://t.me/QuantX
 
 
 
-## 莫离各平台脚本跳转：
+#### 各平台脚本跳转：
 * 莫离QuantumultX重写👉👉👉👉[***✅重写1***](https://github.com/Moli-X/Resources/tree/main/Rewrite) [***✅重写2***](https://github.com/Moli-X/Resources) 
 * 莫离LOON模块👉👉👉👉👉👉[***✅模块1***](https://github.com/Moli-X/Resources/tree/main/Loon) [***✅模块2***](https://github.com/Moli-X/Tool/tree/X/Loon) 
 * 莫离分流规则👉👉👉👉👉👉[***✅分流1***](https://github.com/Moli-X/Resources/tree/main/Filter) [***✅分流2***](https://github.com/Moli-X/Tool) 
 
-## 莫离各平台配置：
+#### 各平台配置：
 * 莫离QuantumultX配置 [***QuantumultX.conf***](https://raw.githubusercontent.com/Moli-X/Resources/main/Rewrite/QuantumultX.conf) 
 * 莫离Loon配置 [***Loon.conf***](https://raw.githubusercontent.com/Moli-X/Resources/main/Loon/Loon.conf) 
 * 莫离Surge配置 [***SurgePRO.conf***](https://github.com/Moli-X/Resources/raw/main/Surge/SurgePRO.conf) 
