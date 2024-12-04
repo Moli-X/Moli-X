@@ -29,8 +29,9 @@ TG Channel：https://t.me/QuantX
 * 莫离Clash配置 [***Clash.yml***](https://raw.githubusercontent.com/Moli-X/Resources/main/Clash/Clash.yml) 
 
 
-## 脚本收集: 
-* QuantumultX重写[***Conf***](https://github.com/Moli-X/Resources )
-* Loon模块[***Plugin***](https://github.com/Moli-X/Tool/tree/X/Loon)
 
+## 莫离各平台脚本跳转：
+* 莫离QuantumultX重写👉👉👉👉[***✅重写1***](https://github.com/Moli-X/Resources/tree/main/Rewrite) [***✅重写2***](https://github.com/Moli-X/Resources) 
+* 莫离LOON模块👉👉👉👉👉👉[***✅模块1***](https://github.com/Moli-X/Resources/tree/main/Loon) [***✅模块2***](https://github.com/Moli-X/Tool/tree/X/Loon) 
+* 莫离分流规则👉👉👉👉👉👉[***✅分流1***](https://github.com/Moli-X/Resources/tree/main/Filter) [***✅分流2***](https://github.com/Moli-X/Tool) 
 
