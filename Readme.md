@@ -29,6 +29,6 @@ TG Channel：https://t.me/QuantX
 * 莫离Clash配置 [***Clash.yml***](https://raw.githubusercontent.com/Moli-X/Resources/main/Clash/Clash.yml) 
 
 
-## 莫离脚本收集: [点击跳转](https://github.com/Moli-X/Resources )
-## 莫离脚本收集: [点击跳转](https://github.com/Moli-X/Tool)
+## QX脚本收集: [点击跳转](https://github.com/Moli-X/Resources )
+## Loon脚本收集: [点击跳转](https://github.com/Moli-X/Tool/X/Loon)
 
