@@ -22,16 +22,16 @@ TG Channel：https://t.me/QuantX
 [*@Blackmatrix7*](https://github.com/blackmatrix7/ios_rule_script) [*@DivineEngine*](https://github.com/DivineEngine) [*@App2smile*](https://github.com/app2smile/rules)  [*@Peng-YM*](https://github.com/Peng-YM) [*@Nick-workflow*](https://github.com/Nick-workflow) [*@KOP-XIAO*](https://github.com/KOP-XIAO) [*@NobyDa*](https://github.com/NobyDa) [*@yjqiang*](https://github.com/yjqiang) [*@O7Y0*](https://github.com/O7Y0) [*@Choler*](https://github.com/Choler) [*@id77*](https://github.com/id77) [*@zmqcherish*](https://github.com/zmqcherish) [*@Qure*](https://github.com/Koolson/Qure) [*@Orz-3*](https://github.com/Orz-3) [*@kyle*](https://github.com/Xirou) [*@其他*](https://github.com/GodMoli) [*@HotKids*](https://github.com/hotKids) [*@langkach*](https://github.com/langkhach270389) [*@lxk0301*](https://github.com/lxk0301) [*@zqzess*](https://github.com/zqzess/rule_for_quantumultX) [*@R·E*](https://github.com/I-am-R-E) [*@VirgilClyne*](https://github.com/VirgilClyne/iRingo#iringo) [*@zZPiglet*](https://github.com/zZPiglet/Task/tree/master)  [*@Chavyleung*](https://github.com/chavyleung)  [*@king*](https://github.com/nameking77) [*@cherish*](https://github.com/zmqcherish) 
 
 
-## 莫离各平台配置：
-* 莫离QuantumultX配置 [***QuantumultX.conf***](https://raw.githubusercontent.com/Moli-X/Resources/main/Rewrite/QuantumultX.conf) 
-* 莫离Loon配置 [***Loon.conf***](https://raw.githubusercontent.com/Moli-X/Resources/main/Loon/Loon.conf) 
-* 莫离Surge配置 [***SurgePRO.conf***](https://github.com/Moli-X/Resources/raw/main/Surge/SurgePRO.conf) 
-* 莫离Clash配置 [***Clash.yml***](https://raw.githubusercontent.com/Moli-X/Resources/main/Clash/Clash.yml) 
-
 
 
 ## 莫离各平台脚本跳转：
 * 莫离QuantumultX重写👉👉👉👉[***✅重写1***](https://github.com/Moli-X/Resources/tree/main/Rewrite) [***✅重写2***](https://github.com/Moli-X/Resources) 
 * 莫离LOON模块👉👉👉👉👉👉[***✅模块1***](https://github.com/Moli-X/Resources/tree/main/Loon) [***✅模块2***](https://github.com/Moli-X/Tool/tree/X/Loon) 
 * 莫离分流规则👉👉👉👉👉👉[***✅分流1***](https://github.com/Moli-X/Resources/tree/main/Filter) [***✅分流2***](https://github.com/Moli-X/Tool) 
+
+## 莫离各平台配置：
+* 莫离QuantumultX配置 [***QuantumultX.conf***](https://raw.githubusercontent.com/Moli-X/Resources/main/Rewrite/QuantumultX.conf) 
+* 莫离Loon配置 [***Loon.conf***](https://raw.githubusercontent.com/Moli-X/Resources/main/Loon/Loon.conf) 
+* 莫离Surge配置 [***SurgePRO.conf***](https://github.com/Moli-X/Resources/raw/main/Surge/SurgePRO.conf) 
+* 莫离Clash配置 [***Clash.yml***](https://raw.githubusercontent.com/Moli-X/Resources/main/Clash/Clash.yml) 
 
