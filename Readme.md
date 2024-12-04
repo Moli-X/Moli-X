@@ -30,7 +30,7 @@ TG Channel：https://t.me/QuantX
 
 
 ## 脚本收集: 
-* [QX重写](https://github.com/Moli-X/Resources )
-* [Loon模块](https://github.com/Moli-X/Tool/tree/X/Loon)
+* QuantumultX重写[***Conf***](https://github.com/Moli-X/Resources )
+* [模块][***Plugin***](https://github.com/Moli-X/Tool/tree/X/Loon)
 
 
