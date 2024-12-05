@@ -30,8 +30,9 @@ TG Channel：https://t.me/QuantX
 * 莫离分流规则👉👉👉👉👉👉[***✅分流1***](https://github.com/Moli-X/Resources/tree/main/Filter) [***✅分流2***](https://github.com/Moli-X/Tool) 
 
 #### 各平台配置：
-* 莫离QuantumultX配置 [***QuantumultX.conf***](https://raw.githubusercontent.com/Moli-X/Resources/main/Rewrite/QuantumultX.conf) 
-* 莫离Loon配置 [***Loon.conf***](https://raw.githubusercontent.com/Moli-X/Resources/main/Loon/Loon.conf) 
-* 莫离Surge配置 [***SurgePRO.conf***](https://github.com/Moli-X/Resources/raw/main/Surge/SurgePRO.conf) 
-* 莫离Clash配置 [***Clash.yml***](https://raw.githubusercontent.com/Moli-X/Resources/main/Clash/Clash.yml) 
-* 莫离Mihomo覆写 [***ConfigSet.js***](https://github.com/Moli-X/Resources/raw/main/Clash/Script/ConfigSet.js) 
+* QuantumultX配置 [***QuantumultX.conf***](https://raw.githubusercontent.com/Moli-X/Resources/main/Rewrite/QuantumultX.conf) 
+* Loon配置 [***Loon.conf***](https://raw.githubusercontent.com/Moli-X/Resources/main/Loon/Loon.conf)
+* Shadowrocket配置 [***Shadowrocket.conf***](https://raw.githubusercontent.com/Moli-X/Shadowrocket/main/Rewite/Shadowrocket.conf)
+* Surge配置 [***SurgePRO.conf***](https://github.com/Moli-X/Resources/raw/main/Surge/SurgePRO.conf) 
+* Clash配置 [***Clash.yml***](https://raw.githubusercontent.com/Moli-X/Resources/main/Clash/Clash.yml) 
+* Mihomo覆写 [***ConfigSet.js***](https://github.com/Moli-X/Resources/raw/main/Clash/Script/ConfigSet.js) 
