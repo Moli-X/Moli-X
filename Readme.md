@@ -34,4 +34,4 @@ TG Channel：https://t.me/QuantX
 * 莫离Loon配置 [***Loon.conf***](https://raw.githubusercontent.com/Moli-X/Resources/main/Loon/Loon.conf) 
 * 莫离Surge配置 [***SurgePRO.conf***](https://github.com/Moli-X/Resources/raw/main/Surge/SurgePRO.conf) 
 * 莫离Clash配置 [***Clash.yml***](https://raw.githubusercontent.com/Moli-X/Resources/main/Clash/Clash.yml) 
-
+* 莫离Mihomo覆写 [***ConfigSet.js***](https://github.com/Moli-X/Resources/raw/main/Clash/Script/ConfigSet.js) 
