@@ -35,4 +35,4 @@ TG Channel：https://t.me/QuantX
 * Shadowrocket配置 [***Shadowrocket.conf***](https://raw.githubusercontent.com/Moli-X/Shadowrocket/main/Rewite/Shadowrocket.conf)
 * Surge配置 [***SurgePRO.conf***](https://github.com/Moli-X/Resources/raw/main/Surge/SurgePRO.conf) 
 * Clash配置 [***Clash.yml***](https://raw.githubusercontent.com/Moli-X/Resources/main/Clash/Clash.yml) 
-* Mihomo覆写 [***ConfigSet.js***](https://github.com/Moli-X/Resources/raw/main/Clash/Script/ConfigSet.js) 
+* Mihomo覆写 [***MihomoParty.js***](https://github.com/Moli-X/Resources/raw/main/Clash/Script/MihomoParty.js) [***MihomoParty.yaml***](https://github.com/Moli-X/Resources/raw/main/Clash/MihomoParty.yaml) 
