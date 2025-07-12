@@ -25,13 +25,13 @@ TG Channel：https://t.me/QuantX
 
 
 #### 各平台脚本跳转：
-* 莫离QuantumultX重写👉👉👉👉[***✅重写1***](https://github.com/Moli-X/Resources/tree/main/Rewrite) [***✅重写2***](https://github.com/Moli-X/Resources) 
+* 莫离QuantumultX重写👉👉👉👉[***✅重写1***](https://github.com/Moli-X/Resources/tree/main/QuantumultX/Rewrite) [***✅重写2***](https://github.com/Moli-X/Resources/tree/main/Rewrite) 
 * 莫离LOON模块👉👉👉👉👉👉[***✅模块1***](https://github.com/Moli-X/Resources/tree/main/Loon) [***✅模块2***](https://github.com/Moli-X/Tool/tree/X/Loon) 
 * 莫离分流规则👉👉👉👉👉👉[***✅分流1***](https://github.com/Moli-X/Resources/tree/main/Filter) [***✅分流2***](https://github.com/Moli-X/Tool) 
 
 #### 各平台配置：
-* QuantumultX配置 [***QuantumultX.conf***](https://raw.githubusercontent.com/Moli-X/Resources/main/Rewrite/QuantumultX.conf) 
-* Loon配置 [***Loon.conf***](https://raw.githubusercontent.com/Moli-X/Resources/main/Loon/Loon.conf)
+* QuantumultX配置 [***QuantumultX.conf***](https://github.com/Moli-X/Resources/raw/main/QuantumultX/QuantumultX.conf) 
+* Loon配置 [***Loon.conf***](https://github.com/Moli-X/Tool/raw/X/Loon/Loon.conf)
 * Shadowrocket配置 [***Shadowrocket.conf***](https://raw.githubusercontent.com/Moli-X/Shadowrocket/main/Rewite/Shadowrocket.conf)
 * Surge配置 [***SurgePRO.conf***](https://github.com/Moli-X/Resources/raw/main/Surge/SurgePRO.conf) 
 * Clash配置 [***Clash.yml***](https://raw.githubusercontent.com/Moli-X/Resources/main/Clash/Clash.yml) 
